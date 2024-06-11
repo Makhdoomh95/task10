@@ -1,1 +1,1 @@
-var arr = [branch1, branch2];
+var arr = [branch1, branch2, branch3];
